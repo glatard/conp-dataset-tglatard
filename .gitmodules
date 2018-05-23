@@ -7,3 +7,6 @@
 [submodule "motion-estimation-stability/CorrBIDS"]
 	path = motion-estimation-stability/CorrBIDS
 	url = /home/glatard/data/corr/RawDataBIDS
+[submodule "CorrBIDS"]
+	path = CorrBIDS
+	url = http://datasets.datalad.org/corr/RawDataBIDS/.git
