@@ -1,3 +1,6 @@
 [submodule "motion-estimation-stability/ds000001"]
 	path = motion-estimation-stability/ds000001
 	url = http://datasets.datalad.org/openfmri/ds000001/.git
+[submodule "RawDataBIDS"]
+	path = RawDataBIDS
+	url = /home/glatard/data/corr/RawDataBIDS
