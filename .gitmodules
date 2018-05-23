@@ -4,3 +4,6 @@
 [submodule "RawDataBIDS"]
 	path = RawDataBIDS
 	url = /home/glatard/data/corr/RawDataBIDS
+[submodule "motion-estimation-stability/CorrBIDS"]
+	path = motion-estimation-stability/CorrBIDS
+	url = /home/glatard/data/corr/RawDataBIDS
