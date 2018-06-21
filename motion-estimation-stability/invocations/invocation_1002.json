@@ -1,0 +1,6 @@
+{
+    "algorithm": "afni",
+    "dataset": "CorrBIDS/IPCAS_1/sub-0025500/ses-1/func/sub-0025500_ses-1_task-rest_run-2_bold.nii.gz",
+    "dataset_perturbated": "CorrBIDS/IPCAS_1/sub-0025500/ses-1/func/sub-0025500_ses-1_task-rest_run-2_bold.nii_one_voxel.nii.gz",
+    "output_base_name": "CorrBIDS/IPCAS_1/sub-0025500/ses-1/func/sub-0025500_ses-1_task-rest_run-2_bold.nii_afni"
+}
