@@ -1,0 +1,3 @@
+[submodule "CorrBIDS"]
+	path = motion-estimation-stability/CorrBIDS
+	url = http://datasets.datalad.org/corr/RawDataBIDS/.git
